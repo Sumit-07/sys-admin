@@ -1,0 +1,20 @@
+nav{
+    background-color: aqua;
+    color: #fff;
+    padding: 30px 60px;
+
+}
+nav ul
+{
+    background-color: plum;
+    padding: 20px 20px;
+}
+h2{
+    background-color: plum;
+    text-emphasis-color: white;
+    text-align: initial;
+    text-size-adjust: 12;
+}
+div{
+    padding: 10px 30px;
+}
